@@ -1,8 +1,9 @@
 #include <iostream>
 #include <cmath>
+#include <locale.h>
 using namespace std;
 int main() {
-	setlocale(LC_ALL, "rus");
+	setlocale(LC_ALL, "Russian");
 	float widht, hight, area, perimetr, diagonal;
 	// ¬вод данных
 	cout << "¬ведите ширину пр€моугольника" << endl;
