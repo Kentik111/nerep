@@ -1,2 +1,2 @@
 # nerep
-Yeah, this is my repository
+Первая лабораторная работа, направленная на изучение github и git bash
