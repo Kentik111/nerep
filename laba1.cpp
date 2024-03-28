@@ -18,3 +18,4 @@ int main() {
 	cout << "Длина диагонали" << " " << diagonal << endl;
 	return 0;
 }
+//commented
