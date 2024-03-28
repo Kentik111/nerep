@@ -15,6 +15,6 @@ int main() {
 	diagonal = sqrt(widht * widht + hight * hight); // Нахождение диагонали. Формула  c = sqrt(a^2 + b^2)
 	cout << "Площадь прямоугольника" << " " << area << endl;
 	cout << "Периметр прямоугольника" << " " << perimetr << endl;
-	cout << "Длина диагонали" << " " << diagonal << endl;
+	cout << "Длина диагонали прямоугольника" << " " << diagonal << endl;
 	return 0;
 }
